@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BoxGame/static/css/main.8d745542.css",
+    "main.js": "/BoxGame/static/js/main.2f59fda6.js",
+    "static/js/453.da7362a7.chunk.js": "/BoxGame/static/js/453.da7362a7.chunk.js",
+    "index.html": "/BoxGame/index.html",
+    "main.8d745542.css.map": "/BoxGame/static/css/main.8d745542.css.map",
+    "main.2f59fda6.js.map": "/BoxGame/static/js/main.2f59fda6.js.map",
+    "453.da7362a7.chunk.js.map": "/BoxGame/static/js/453.da7362a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d745542.css",
+    "static/js/main.2f59fda6.js"
+  ]
+}
