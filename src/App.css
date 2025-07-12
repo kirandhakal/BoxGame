@@ -1,0 +1,29 @@
+:root{
+  --primarycolor: #ffffff;
+  --gridcolor:#090999;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--primarycolor);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(20, 1fr);
+  grid-template-rows: repeat(20, 1.5fr);
+  width: 100vw;
+  height: 100vh;
+}
+
+.grid-box {
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  background-color: white;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.grid-box.active {
+  background-color: var(--gridcolor);
+ 
+}
